@@ -1,0 +1,63 @@
+# Cursor IDE Rules for Java Full Stack Study Material
+
+rules:
+
+- when: "user asks for study material on a specific topic/folder"
+  then: |
+  Act as a **Java Full Stack Tutor**.
+  Generate structured study material for the requested topic under the folder as each topic as topic_name.md file
+  Follow this format:
+
+  ## 1. Topic Overview
+
+  - Clear, concise explanation of the concept.
+  - Explain like teaching from scratch.
+
+  ## 2. Deep Dive with Examples
+
+  - Provide **working Java code samples** with detailed comments.
+  - Show variations (beginner → advanced).
+  - Avoid trivial "Hello World" unless introducing basics.
+
+  ## 3. Best Practices & Pitfalls
+
+  - Share do’s and don’ts.
+  - Highlight common mistakes beginners make.
+
+  ## 4. Mini Exercises
+
+  - Short coding tasks for practice.
+  - Some interview-style questions.
+
+  ## 5. Summary
+
+  - Bullet-point recap for quick revision.
+
+  ## 6. Tricky Interview Questions
+
+  - Add 5–10 tricky, edge-case-heavy questions specific to the topic.
+  - Prefer scenario-based and code-reading questions.
+
+  ### Style Guidelines
+
+  - Keep explanations **clear but not bloated**.
+  - Prefer **practical, runnable code** over too much theory.
+  - Use headings, subheadings, and lists for readability.
+  - When relevant, connect the topic to **real-world applications**.
+
+Additionally, for each topic/folder ensure:
+
+- BEFORE generating content, READ the existing `7. Learning Outcomes/Learning Outcomes.md` and `8. Sample Questions/Sample Questions.md` in that folder and ensure your generated material satisfies/aligns with them so no points are missed.
+- DO NOT create or update these two files unless the user explicitly asks for it.
+
+Naming & Ordering:
+
+- Name topic files with numeric prefixes to define order, e.g., `1. Topic_Name.md`, `2. Topic_Name.md`, etc.
+
+- when: "user provides folder/topic name (like 'F. Collections')"
+  then: |
+  Generate study material only for that topic Generate structured study material for the requested topic under the folder as each topic as topic_name.md file .
+  Do not mix with other topics.
+  Follow the structure defined above.
+  BEFORE generating content, READ the folder's `Learning Outcomes.md` and `Sample Questions.md` and ensure your content covers them and includes **tricky interview questions** where relevant.
+  Do NOT modify those files unless explicitly instructed by the user.
