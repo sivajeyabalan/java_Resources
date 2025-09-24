@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "7b73ccd6ebb366ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab039b6308d7d9bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e2b6447f938c1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A. Java Fundamentals/8. Sample Questions/Sample Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6adb06dae721802f",
+    "type": "split",
+    "children": [
+      {
+        "id": "047cb688e852a4ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71471a6d66bcb993",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9165c6ddf669c4fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "def34b1b3f0a3cb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "623f972a18bc6fb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e3bfe5231affba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e77a6a13811d5af7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A. Java Fundamentals/4. Methods_and_Overloading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Methods_and_Overloading"
+            }
+          },
+          {
+            "id": "2dfe89bf0f49ed4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A. Java Fundamentals/4. Methods_and_Overloading.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Methods_and_Overloading"
+            }
+          },
+          {
+            "id": "aa8273e55e21ad43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "94448ea7448e476f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A. Java Fundamentals/4. Methods_and_Overloading.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Methods_and_Overloading"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7e2b6447f938c1ea",
+  "lastOpenFiles": [
+    "A. Java Fundamentals/7. Learning Outcomes/Learning Outcomes.md",
+    "A. Java Fundamentals/10. Packages_Static_Final.md",
+    "A. Java Fundamentals/9. Exceptions_and_TryCatch.md",
+    "A. Java Fundamentals/8. Arrays_and_Collections_Intro.md",
+    "A. Java Fundamentals/7. Strings_and_StringBuilder.md",
+    "A. Java Fundamentals/6. Interfaces_and_Access_Modifiers.md",
+    "A. Java Fundamentals/5. OOP_Basics.md",
+    "A. Java Fundamentals/4. Methods_and_Overloading.md",
+    "A. Java Fundamentals/3. Control_Flow.md",
+    "A. Java Fundamentals/1. JDK_JRE_JVM.md",
+    "A. Java Fundamentals/2. Variables_and_Types.md"
+  ]
+}
