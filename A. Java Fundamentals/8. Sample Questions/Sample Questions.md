@@ -18,5 +18,5 @@ What is the use of PATH variable?
 What is the use of CLASSPATH variable?
 How do you assign values for PATH and CLASSPATH Variable?
 What are all the characteristic features of Java Programming language?
-In which interface we can find the definition of forEach method?
+In which interface we can find the definition of for Each method?
 When do we prefer parallel sort over serial sort?

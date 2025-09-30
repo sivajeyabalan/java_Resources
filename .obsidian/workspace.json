@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A. Java Fundamentals/8. Sample Questions/Sample Questions.md",
+                "file": "B. OOPS and Inheritance/1. Classes_and_Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Questions"
+              "title": "1. Classes_and_Objects"
             }
           }
         ]
@@ -171,6 +171,18 @@
   },
   "active": "7e2b6447f938c1ea",
   "lastOpenFiles": [
+    "A. Java Fundamentals/8. Sample Questions/Sample Questions.md",
+    "B. OOPS and Inheritance/10. Inner_Classes_and_Final_Keyword.md",
+    "B. OOPS and Inheritance/9. StringJoiner_and_String_concatenation.md",
+    "B. OOPS and Inheritance/8. Garbage_Collection_and_finalize_Optional.md",
+    "B. OOPS and Inheritance/7. instanceof_and_Type_Checking.md",
+    "B. OOPS and Inheritance/6. Encapsulation_and_Abstraction.md",
+    "B. OOPS and Inheritance/5. Overriding_and_Runtime_Polymorphism.md",
+    "B. OOPS and Inheritance/4. Inheritance_and_super.md",
+    "B. OOPS and Inheritance/3. Static_Final_and_Instance_Members.md",
+    "B. OOPS and Inheritance/2. Constructors_and_this.md",
+    "B. OOPS and Inheritance/1. Classes_and_Objects.md",
+    "bash.exe.stackdump",
     "A. Java Fundamentals/7. Learning Outcomes/Learning Outcomes.md",
     "A. Java Fundamentals/10. Packages_Static_Final.md",
     "A. Java Fundamentals/9. Exceptions_and_TryCatch.md",
