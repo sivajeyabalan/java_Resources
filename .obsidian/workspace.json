@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab039b6308d7d9bf",
+        "id": "7bbd94a977055f94",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2b6447f938c1ea",
+            "id": "19445aa3cd39ba46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B. OOPS and Inheritance/1. Classes_and_Objects.md",
+                "file": "C. Abstraction, Packages and Exception Handling/1. Abstract_Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Classes_and_Objects"
+              "title": "1. Abstract_Classes"
             }
           }
         ]
@@ -169,30 +169,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e2b6447f938c1ea",
+  "active": "19445aa3cd39ba46",
   "lastOpenFiles": [
-    "A. Java Fundamentals/8. Sample Questions/Sample Questions.md",
-    "B. OOPS and Inheritance/10. Inner_Classes_and_Final_Keyword.md",
-    "B. OOPS and Inheritance/9. StringJoiner_and_String_concatenation.md",
-    "B. OOPS and Inheritance/8. Garbage_Collection_and_finalize_Optional.md",
-    "B. OOPS and Inheritance/7. instanceof_and_Type_Checking.md",
-    "B. OOPS and Inheritance/6. Encapsulation_and_Abstraction.md",
-    "B. OOPS and Inheritance/5. Overriding_and_Runtime_Polymorphism.md",
-    "B. OOPS and Inheritance/4. Inheritance_and_super.md",
-    "B. OOPS and Inheritance/3. Static_Final_and_Instance_Members.md",
-    "B. OOPS and Inheritance/2. Constructors_and_this.md",
-    "B. OOPS and Inheritance/1. Classes_and_Objects.md",
-    "bash.exe.stackdump",
-    "A. Java Fundamentals/7. Learning Outcomes/Learning Outcomes.md",
-    "A. Java Fundamentals/10. Packages_Static_Final.md",
-    "A. Java Fundamentals/9. Exceptions_and_TryCatch.md",
-    "A. Java Fundamentals/8. Arrays_and_Collections_Intro.md",
-    "A. Java Fundamentals/7. Strings_and_StringBuilder.md",
-    "A. Java Fundamentals/6. Interfaces_and_Access_Modifiers.md",
-    "A. Java Fundamentals/5. OOP_Basics.md",
-    "A. Java Fundamentals/4. Methods_and_Overloading.md",
-    "A. Java Fundamentals/3. Control_Flow.md",
-    "A. Java Fundamentals/1. JDK_JRE_JVM.md",
-    "A. Java Fundamentals/2. Variables_and_Types.md"
+    "G. Junit/6. Advanced_JUnit_Features_and_Best_Practices.md",
+    "G. Junit/5. Test_Suites_and_Organization.md",
+    "G. Junit/4. Assert_Methods_and_Testing_Techniques.md",
+    "F. Collections/11. Learning Outcomes/Untitled.md",
+    "G. Junit/3. JUnit_Annotations_and_Usage.md",
+    "G. Junit/2. JUnit_Framework_Basics.md",
+    "G. Junit/1. Testing_Fundamentals_and_Introduction.md",
+    "F. Collections/8. Date_Time_API.md",
+    "F. Collections/7. Stream_API_and_Operations.md",
+    "F. Collections/6. Lambda_Expressions_and_Functional_Interfaces.md",
+    "F. Collections/5. Iterators_and_Enumeration.md",
+    "F. Collections/4. Map_Interface_and_Implementations.md",
+    "F. Collections/3. Set_Interface_and_Implementations.md",
+    "F. Collections/2. List_Interface_and_Implementations.md",
+    "F. Collections/1. Collections_Framework_Overview.md",
+    "E. IO Streams/6. File_Operations_and_NIO_Basics.md",
+    "E. IO Streams/5. System_Class_IO_and_Console.md",
+    "E. IO Streams/4. Serialization_and_Deserialization.md",
+    "E. IO Streams/3. Character_Streams_Reader_Writer.md",
+    "E. IO Streams/2. Byte_Streams_InputStream_OutputStream.md",
+    "E. IO Streams/1. IO_Streams_Overview.md",
+    "D. Wrapper Classes/3. Wrapper_Class_Methods.md",
+    "C. Abstraction, Packages and Exception Handling/1. Abstract_Classes.md",
+    "D. Wrapper Classes/6. Advanced_Wrapper_Topics.md",
+    "D. Wrapper Classes/5. Cloneable_Interface_and_Object_Methods.md",
+    "D. Wrapper Classes/4. Caching_and_Performance.md",
+    "bash.exe.stackdump"
   ]
 }

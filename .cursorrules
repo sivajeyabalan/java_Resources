@@ -5,7 +5,7 @@ rules:
 - when: "user asks for study material on a specific topic/folder"
   then: |
   Act as a **Java Full Stack Tutor**.
-  Generate structured study material for the requested topic under the folder as each topic as topic_name.md file
+  Generate structured study material for the requested topic under the folder as each topic as topic_name.md file and generate any no of files as required
   Follow this format:
 
   ## 1. Topic Overview
@@ -14,22 +14,27 @@ rules:
   - Explain like teaching from scratch.
   - Be more clear and detailed
 
-  ## 2. Deep Dive with Examples
+  ## 2 . Topic definition
+
+  - Define all the topic related terms
+   -**WHAT → WHY → HOW → WHEN/WHERE → WHAT IF → EXAMPLES**
+
+  ## 3. Deep Dive with Examples
 
   - Provide **working Java code samples** with detailed comments.
   - Show variations (beginner → advanced).
   - Avoid trivial "Hello World" unless introducing basics.
 
-  ## 3. Best Practices & Pitfalls
+  ## 4. Best Practices & Pitfalls
 
   - Share do’s and don’ts.
   - Highlight common mistakes beginners make.
 
-  ## 4. Summary
+  ## 5. Summary
 
   - Bullet-point recap for quick revision.
 
-  ## 5. Tricky Interview Questions
+  ## 6. Tricky Interview Questions
 
   - Add 5–10 tricky, edge-case-heavy questions specific to the topic.
   - Prefer scenario-based and code-reading questions.
