@@ -54,21 +54,6 @@ This repository is a complete, interview-focused study kit for Java Full Stack. 
 7) Testing
 - G. JUnit 5, Mockito, Spring Boot slices, Testcontainers.
 
-### Running code samples
-
-- Plain Java examples
-  - Compile and run with JDK:
-    ```bash
-    javac MyClass.java && java MyClass
-    ```
-- Spring Boot samples
-  - Use Maven or Gradle project structure if you port code into a Boot app. Typical commands:
-    ```bash
-    ./mvnw spring-boot:run
-    # or
-    ./gradlew bootRun
-    ```
-
 ### Interview prep tips
 
 - Prioritize scenario-based understanding: transactions across services, avoiding N+1, securing REST with JWT, paging with projections, and stream/collections pitfalls.
